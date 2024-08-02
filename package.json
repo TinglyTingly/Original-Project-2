@@ -11,7 +11,11 @@
   "dependencies": {
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "next": "14.2.5",
+    "@emotion/react": "^11.x.x",
+    "@emotion/styled": "^11.x.x",
+    "@mui/material": "^5.x.x",
+    "firebase": "^9.x.x"
   },
   "devDependencies": {
     "eslint": "^8",
